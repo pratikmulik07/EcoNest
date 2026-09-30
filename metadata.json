@@ -1,0 +1,6 @@
+{
+  "name": "EcoBrand & Reuse - Sustainable Lifestyle & Analytics",
+  "description": "Mobile sustainable product discovery, AI-powered 'What Can I Make?' material upcycling, and digital marketing analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
